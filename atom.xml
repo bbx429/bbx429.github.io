@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://bbx.github.io</id>
+    <id>https://bbxblog.github.io</id>
     <title>Gridea</title>
-    <updated>2020-09-05T02:59:14.543Z</updated>
+    <updated>2020-09-05T03:25:17.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://bbx.github.io"/>
-    <link rel="self" href="https://bbx.github.io/atom.xml"/>
+    <link rel="alternate" href="https://bbxblog.github.io"/>
+    <link rel="self" href="https://bbxblog.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://bbx.github.io/images/avatar.png</logo>
-    <icon>https://bbx.github.io/favicon.ico</icon>
+    <logo>https://bbxblog.github.io/images/avatar.png</logo>
+    <icon>https://bbxblog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[测试文章]]></title>
-        <id>https://bbx.github.io/post/ce-shi-wen-zhang/</id>
-        <link href="https://bbx.github.io/post/ce-shi-wen-zhang/">
+        <id>https://bbxblog.github.io/post/ce-shi-wen-zhang/</id>
+        <link href="https://bbxblog.github.io/post/ce-shi-wen-zhang/">
         </link>
         <updated>2020-09-05T02:45:27.000Z</updated>
         <content type="html"><![CDATA[<p>8888888</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://bbx.github.io/post/hello-gridea/</id>
-        <link href="https://bbx.github.io/post/hello-gridea/">
+        <id>https://bbxblog.github.io/post/hello-gridea/</id>
+        <link href="https://bbxblog.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
